@@ -1,0 +1,44 @@
+*{
+    text-align: center;
+    
+}
+body{
+    background-color: rgb(250, 248, 114);
+}
+
+#simbolo{
+    width: 200px;
+
+}
+#imagemcozinha{
+    width: 200px;
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+}
+#imagemcontratequemluta{
+    width: 200px;
+}
+#divcozinha{
+    background-color: red;
+    text-align:center;
+    font-size: large;
+    padding: 20px;
+    margin-right: 20%;
+    margin-left: 20%;
+    margin-top: 20px;
+    
+}
+
+#divluta{
+    background-color:aquamarine;
+    text-align:center;
+    font-size: large;
+    padding: 20px;
+    margin-right: 20%;
+    margin-left: 20%;
+    margin-top: 20px;
+}
+.botao{
+    background-color: yellow;
+}
